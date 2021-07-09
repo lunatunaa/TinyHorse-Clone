@@ -1,0 +1,93 @@
+.palm-trees {
+  max-width: 100%;
+  height: auto;
+  color: white;
+  padding: 0;
+}
+
+.sky {
+  max-width: 100%;
+  height: auto;
+  color: purple;
+  padding: 0;
+}
+
+.fw-bold {
+  position: absolute;
+  top: 100px;
+  left: 16px;
+}
+
+.partners {
+  background-image: url("https://tinyhorse.com/wp-content/uploads/2019/04/Tiny-Horse-Agency-Gradient.jpg");
+  color: #f7fafe;
+  height: 200px;
+}
+
+.mission {
+  background-color: #f4eae9;
+  color: black;
+}
+
+.mission h3 {
+  font-family: "Raleway" "sans-serif";
+  text-align: center;
+  position: center;
+  padding-top: 80px;
+}
+
+button {
+  padding: 10px;
+  border-radius: 0;
+  border: black;
+  position: center;
+  background-color: #f4eae9;
+}
+
+/* .features {
+  padding: 50px;
+}
+
+.features p {
+  font-family: "Muli" "sans-serif";
+  text-align: center;
+  color: black;
+  font-size: 1.2em;
+  padding-top: 10px;
+}
+
+.embed-fluid {
+  text-align: center;
+  margin: 50px;
+}
+
+footer {
+  background-color: #d64541;
+  position: absolute;
+  width: 100%;
+  height: auto;
+  color: #fff;
+}
+
+footer ul li {
+  display: inline-block;
+  list-style: none;
+}
+
+footer p {
+  float: left;
+}
+
+footer a,
+footer p {
+  color: #fff;
+  vertical-align: middle;
+}
+
+.text-right {
+  float: right;
+} */
+
+/********************
+MEDIA QUERIES
+********************/

@@ -8,13 +8,20 @@
 .sky {
   max-width: 100%;
   height: auto;
-  color: purple;
+  color: white;
   padding: 0;
 }
 
+/* 
+.text-in-sky {
+  position: absolute;
+  top: 500px;
+  left: 16px;
+} */
+
 .fw-bold {
   position: absolute;
-  top: 100px;
+  top: 500px;
   left: 16px;
 }
 
@@ -24,7 +31,18 @@
   height: 200px;
 }
 
-.mission {
+.footer {
+  background-color: rgb(34, 34, 34);
+  color: cadetblue;
+  max-width: 100%;
+}
+
+.pre-footer {
+  background-color: rgb(34, 34, 34);
+  color: white;
+  max-width: 100%;
+}
+/* .mission {
   background-color: #f4eae9;
   color: black;
 }
@@ -42,7 +60,7 @@ button {
   border: black;
   position: center;
   background-color: #f4eae9;
-}
+} */
 
 /* .features {
   padding: 50px;
